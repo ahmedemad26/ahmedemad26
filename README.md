@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Emad  
 
-<!--
-**ahmedemad26/ahmedemad26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I’m a **Front-End Developer** skilled in **React.js** and **Next.js**, passionate about building clean, responsive, and user-friendly web applications.  
+I focus on **performance optimization**, **scalable code**, and delivering a great **user experience**.  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, HeroUI  
+- **State Management & Data Fetching:** React Query, Context API, Axios  
+- **Tools & Others:** Git, GitHub, Responsive Design, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/ahmed-emad50)  
+- [GitHub](https://github.com/ahmedemad26)  
+- [Email](mailto:ahmeedemadmohamed@gmail.com)  
+
