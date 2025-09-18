@@ -2,6 +2,7 @@
 
 ## 🚀 About Me  
 I’m a **Front-End Developer** skilled in **React.js** and **Next.js**, passionate about building clean, responsive, and user-friendly web applications.  
+I focus on **performance optimization**, **scalable code**, and delivering a great **user experience**.  
 
 ## 🛠 Tech Stack  
 
@@ -14,8 +15,14 @@ I’m a **Front-End Developer** skilled in **React.js** and **Next.js**, passion
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </p>  
 
+## 📌 Featured Projects  
+- [Social App](https://github.com/ahmedemad26/social-app)  
+- [Portfolio Website](#)  
 
 ## 📫 Connect with Me  
-- [LinkedIn]([https://www.linkedin.com/in/ahmed-emad50](https://www.linkedin.com/in/ahmedemad50/))  
-- [GitHub]([https://github.com/ahmedemad26](https://github.com/ahmedemad26))  
 - [Email](mailto:ahmeedemadmohamed@gmail.com)  
+- [GitHub](https://github.com/ahmedemad26)  
+- [LinkedIn](https://www.linkedin.com/in/ahmedemad50/)  
+
+---
+⭐️ From [Ahmed Emad](https://github.com/ahmedemad26)
