@@ -16,6 +16,6 @@ I’m a **Front-End Developer** skilled in **React.js** and **Next.js**, passion
 
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/ahmed-emad50)  
-- [GitHub](https://github.com/ahmedemad26)  
+- [LinkedIn]([https://www.linkedin.com/in/ahmed-emad50](https://www.linkedin.com/in/ahmedemad50/))  
+- [GitHub]([https://github.com/ahmedemad26](https://github.com/ahmedemad26))  
 - [Email](mailto:ahmeedemadmohamed@gmail.com)  
