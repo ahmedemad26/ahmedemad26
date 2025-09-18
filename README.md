@@ -16,13 +16,10 @@ I focus on **performance optimization**, **scalable code**, and delivering a gre
 </p>  
 
 ## 📌 Featured Projects  
-- [Social App](https://github.com/ahmedemad26/social-app)  
-- [Portfolio Website](#)  
+- [Portfolio Website](https://ahmedemad26.github.io/portfolio/) — My personal portfolio showcasing my projects and skills  
+- [Social App](https://github.com/ahmedemad26/social-app) — A social media app with posts, comments, and profile customization  
 
 ## 📫 Connect with Me  
 - [Email](mailto:ahmeedemadmohamed@gmail.com)  
 - [GitHub](https://github.com/ahmedemad26)  
 - [LinkedIn](https://www.linkedin.com/in/ahmedemad50/)  
-
----
-⭐️ From [Ahmed Emad](https://github.com/ahmedemad26)
