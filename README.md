@@ -21,16 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedemad26&theme=tokyonight" alt="GitHub Streak" />
-</p>  
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
