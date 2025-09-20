@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,github" />
 </p>
 
 ---
@@ -30,9 +30,14 @@
 </p>  
 
 <p align="center">
-  <a href="https://your-cv-link.com" target="_blank"><img src="https://img.shields.io/badge/-Resume-2F81F7?style=for-the-badge&logo=readme&logoColor=white"/></a>
-  <a href="https://ahmedemad26.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1R80SVHl5AB8g8zJxhlGmVHFC0nCAeFJu/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-2F81F7?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="https://ahmedemad26.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
