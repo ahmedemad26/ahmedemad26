@@ -13,11 +13,7 @@ I focus on **performance optimization**, **scalable code**, and delivering a gre
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</p>  
-
-## 📌 Featured Projects  
-- [Portfolio Website](https://ahmedemad26.github.io/portfolio/) — My personal portfolio showcasing my projects and skills  
-- [Social App](https://github.com/ahmedemad26/social-app) — A social media app with posts, comments, and profile customization  
+</p>    
 
 ## 📫 Connect with Me  
 - [Email](mailto:ahmeedemadmohamed@gmail.com)  
