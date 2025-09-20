@@ -44,10 +44,14 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:ahmeedemadmohamed@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ahmedemad26"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmedemad50/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>  
+  <a href="https://drive.google.com/file/d/1R80SVHl5AB8g8zJxhlGmVHFC0nCAeFJu/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-2F81F7?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="https://ahmedemad26.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
