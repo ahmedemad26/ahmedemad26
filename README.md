@@ -1,21 +1,40 @@
-# 👋 Hi, I'm Ahmed Emad  
+# 👋 Hey there, I'm Ahmed Emad!  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&width=500&lines=Front-End+Developer;React.js+%26+Next.js+Enthusiast;Passionate+about+UI%2FUX;Always+Learning+New+Techs" />
+</p>  
+
+---
 
 ## 🚀 About Me  
-I’m a **Front-End Developer** skilled in **React.js** and **Next.js**, passionate about building clean, responsive, and user-friendly web applications.  
-I focus on **performance optimization**, **scalable code**, and delivering a great **user experience**.  
+💻 I’m a **Front-End Developer** specializing in **React.js** and **Next.js**.  
+⚡ Passionate about building **clean, responsive, and user-friendly web apps**.  
+🎯 Focused on **performance optimization**, **scalable code**, and great **user experience**.  
+
+---
 
 ## 🛠 Tech Stack  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</p>    
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedemad26&theme=tokyonight" alt="GitHub Streak" />
+</p>  
+
+---
 
 ## 📫 Connect with Me  
-- [Email](mailto:ahmeedemadmohamed@gmail.com)  
-- [GitHub](https://github.com/ahmedemad26)  
-- [LinkedIn](https://www.linkedin.com/in/ahmedemad50/)  
+
+<p align="center">
+  <a href="mailto:ahmeedemadmohamed@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ahmedemad26"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmedemad50/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
