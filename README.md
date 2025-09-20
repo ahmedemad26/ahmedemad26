@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Ahmed Emad  
 
 <p align="center">
@@ -7,8 +8,8 @@
 ---
 
 ## 🚀 About Me  
-I specialize in building **dynamic web applications** — from **e-commerce platforms** with secure payment gateways to **social media apps** and **interactive web experiences**.  
-I work mainly with **Next.js**, **TypeScript**, and **Tailwind CSS**, always staying up to date with the latest **performance optimization practices**.  
+I build **dynamic web apps** — from **e-commerce platforms** to **social media apps** and **interactive experiences**.  
+Skilled in **Next.js**, **TypeScript**, and **Tailwind CSS**, always focusing on **performance** and **best practices**.  
 
 ---
 
@@ -23,8 +24,12 @@ I work mainly with **Next.js**, **TypeScript**, and **Tailwind CSS**, always sta
 ## 📄 Resume & Portfolio  
 
 <p align="center">
-  <a href="https://your-cv-link.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Resume-2F81F7?style=for-the-badge&logo=readme&logoColor=white"/></a>
-  <a href="https://ahmedemad26.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-ff9800?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=ff9800&center=true&vCenter=true&width=400&lines=Check+out+my+Portfolio!;Visit+my+Resume+%26+Projects" />
+</p>  
+
+<p align="center">
+  <a href="https://your-cv-link.com" target="_blank"><img src="https://img.shields.io/badge/-Resume-2F81F7?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <a href="https://ahmedemad26.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 ---
