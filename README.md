@@ -8,8 +8,10 @@
 ---
 
 ## 🚀 About Me  
-I build **dynamic web apps** — from **e-commerce platforms** to **social media apps** and **interactive experiences**.  
-Skilled in **Next.js**, **TypeScript**, and **Tailwind CSS**, always focusing on **performance** and **best practices**.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+build+dynamic+web+apps.;From+e-commerce+to+social+media+platforms.;Skilled+in+Next.js,+TypeScript,+TailwindCSS.;Focused+on+performance+%26+best+practices." />
+</p>  
 
 ---
 
@@ -24,7 +26,7 @@ Skilled in **Next.js**, **TypeScript**, and **Tailwind CSS**, always focusing on
 ## 📄 Resume & Portfolio  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=ff9800&center=true&vCenter=true&width=400&lines=Check+out+my+Portfolio!;Visit+my+Resume+%26+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=ff9800&center=true&vCenter=true&width=400&lines=Check+out+my+Portfolio!;Visit+my+Resume+%26+Projects" />
 </p>  
 
 <p align="center">
