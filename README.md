@@ -1,3 +1,14 @@
+<!-- 🎉 Welcome Section -->
+<div align="center">
+  
+# 🎉 Welcome to My GitHub Profile!  
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+Emad+👋;A+Passionate+Front-End+Developer;React.js+%26+Next.js+Enthusiast;Always+Learning+%26+Building+🚀" />
+
+</div>  
+
+---
+
 # 👋 Hi, I'm Ahmed Emad  
 
 <p align="center">
