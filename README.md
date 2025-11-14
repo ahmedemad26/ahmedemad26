@@ -37,7 +37,7 @@
 
 | Project | Description | Live Demo | Repo |
 |----------|--------------|-----------|------|
-| 🛒 **E-commerce Store** | Full-featured Next.js app with TailwindCSS and React Query | [Live](#) | [Repo](#) |
+| 🛒 **E-commerce Store** | Full-featured Next.js app with TailwindCSS and React Query | [Live](https://exlusive-three.vercel.app/) | [Repo](#) |
 | 💼 **Portfolio Website** | Personal portfolio showcasing my work | [Live](https://ahmedemad26.github.io/portfolio/) | [Repo](#) |
 
 ---
