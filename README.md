@@ -51,7 +51,7 @@
 - Optimized for mobile-first users with **Tailwind CSS**.
 
 ### 💼 [Modern Portfolio](https://ahmedemad26.github.io/portfolio/)
-> **React.js Personal Showcase**
+> **Personal Showcase**
 - Clean, minimalist design showcasing projects and technical skills.
 - High performance and fully responsive across all devices.
 
