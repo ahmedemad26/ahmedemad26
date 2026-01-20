@@ -1,5 +1,8 @@
-<h1 align="center">Ahmed Emad 👋</h1>
-<h3 align="center">Front-End Developer | React.js & Next.js Specialist</h3>
+<h1 align="center">Ahmed Emad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"></h1>
+<h3 align="center">🚀 Transforming Ideas into High-Performance Web Experiences</h3>
+<p align="center">
+  <strong>Front-End Developer | React.js & Next.js Specialist</strong>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,10 +48,12 @@
 > **Next.js 14 E-commerce Platform**
 - High-performance store with **Server-side Rendering (SSR)**.
 - Robust state management using **React Query** and **Zod** for validation.
+- Optimized UI for seamless shopping experience.
 
 ### 💼 [Modern Portfolio](https://ahmedemad26.github.io/portfolio/)
-> **Personal Showcase**
+> **React.js Personal Showcase**
 - Clean and interactive UI built with a mobile-first approach.
+- Optimized for performance and high-speed loading.
 
 ---
 
