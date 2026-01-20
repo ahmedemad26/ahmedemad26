@@ -27,7 +27,7 @@
 - 💻 **Expertise:** Building high-performance web applications using **Next.js (App Router)**.
 - 🛒 **Specialization:** Developing scalable **E-commerce** solutions and dynamic dashboards.
 - 🚀 **Performance:** Focused on **SEO optimization**, Core Web Vitals, and clean architecture.
-- 🌱 **Learning:** Currently diving deeper into **Node.js** to become a Full-Stack Engineer.
+- 🌱 **Learning:** Currently diving deeper into **TypeScript** and modern UI patterns.
 
 ---
 
@@ -51,7 +51,7 @@
 - Optimized for mobile-first users with **Tailwind CSS**.
 
 ### 💼 [Modern Portfolio](https://ahmedemad26.github.io/portfolio/)
-> **Personal Showcase**
+> **React.js Personal Showcase**
 - Clean, minimalist design showcasing projects and technical skills.
 - High performance and fully responsive across all devices.
 
@@ -60,7 +60,7 @@
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad26&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad26&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=c%2B%2B,c,java&langs_count=6" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="160" />
 </p>
 
@@ -72,5 +72,5 @@
 - 💬 **Let's Talk:** I'm open to **Full-time roles** and **Freelance projects**.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm,vercel,postman,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm,vercel,postman" />
 </p>
