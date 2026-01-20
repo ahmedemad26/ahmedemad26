@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad26&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=c%2B%2B,c,java,python,csharp&langs_count=6" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide_rank=true" height="160" />
 </p>
 
 ---
