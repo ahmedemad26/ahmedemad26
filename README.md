@@ -35,7 +35,7 @@
 - **Frontend:** `Next.js 14/15` • `React.js` • `TypeScript` • `JavaScript (ES6+)`
 - **Styling:** `Tailwind CSS` • `Shadcn/UI` • `Responsive Design`
 - **State Management:** `TanStack Query (React Query)` • `Redux Toolkit` • `Zod`
-- **Tools:** `Git/GitHub` • `Vercel` • `Figma` • `Postman`
+- **Tools:** `Git/GitHub` • `Vercel` • `Figma` • `Postman` • `Yarn` • `NPM`
 
 ---
 
@@ -47,7 +47,7 @@
 - Robust state management using **React Query** and **Zod** for validation.
 
 ### 💼 [Modern Portfolio](https://ahmedemad26.github.io/portfolio/)
-> **React.js Personal Showcase**
+> **Personal Showcase**
 - Clean and interactive UI built with a mobile-first approach.
 
 ---
@@ -67,5 +67,5 @@
 - 📎 **Resume:** [View My CV](https://drive.google.com/file/d/1R80SVHl5AB8g8zJxhlGmVHFC0nCAeFJu/view)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,vercel,postman,figma" />
 </p>
