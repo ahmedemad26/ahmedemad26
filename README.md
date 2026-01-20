@@ -2,13 +2,13 @@
 <h3 align="center">Front-End Developer | Specialized in React.js & Next.js</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js" />
+  </a>
 </p>
 
 <p align="center">
-  Front-End Developer dedicated to crafting <b>pixel-perfect</b>, high-performance, and accessible web experiences. 
+  <b>Front-End Developer</b> dedicated to crafting pixel-perfect, high-performance, and accessible web experiences. 
   I bridge the gap between complex design and scalable code.
 </p>
 
@@ -25,7 +25,7 @@
 - 🎓 **Education:** Student at Faculty of Computers & Information.
 - 💻 **Experience:** 1+ year of hands-on experience building modern web applications.
 - ⚛️ **Expertise:** Deep focus on **Next.js (App Router)**, Server Components, and Client-side optimization.
-- 🎯 **Philosophy:** Writing clean, maintainable code and following the "DRY" principle.
+- 🎯 **Focus:** Writing clean, maintainable code and building high-performance E-commerce solutions.
 - 🌱 **Learning:** Currently diving deeper into **Unit Testing (Jest)** and **Performance Optimization**.
 
 ---
@@ -34,10 +34,10 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Core** | HTML5, CSS3, JavaScript (ES6+), **TypeScript** |
+| **Core Tech** | HTML5, CSS3, JavaScript (ES6+), **TypeScript** |
 | **Frameworks** | **React.js**, **Next.js 14 (App Router)** |
-| **Styling** | Tailwind CSS, Shadcn/UI, Responsive Design |
-| **State & Data** | React Query (TanStack), React Hook Form, Zod, Context API |
+| **Styling** | Tailwind CSS, Shadcn/UI, Framer Motion |
+| **State & Data** | React Query (TanStack), React Hook Form, Zod |
 | **Tools** | Git & GitHub, VS Code, Figma, REST APIs |
 
 ---
@@ -48,12 +48,11 @@
 *A full-stack feel e-commerce experience with a focus on speed and UX.*
 - **Key Features:** Dynamic product routing, complex cart logic, and persistent state.
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS.
-- **Optimization:** Achieved high Core Web Vitals using Next.js Image optimization and Server Components.
+- **Optimization:** Optimized for performance using Server Components and Next.js Image component.
 
 ### 💼 [Personal Portfolio](https://ahmedemad26.github.io/portfolio/)
-*A clean, minimalist portfolio to showcase my journey and technical skills.*
-- **Key Features:** Fully responsive design, smooth navigation, and optimized assets.
-- **Tech Stack:** Modern Front-End practices.
+- **Tech Stack:** React, Tailwind CSS.
+- **Features:** Responsive design with smooth animations and clean UI.
 
 ---
 
@@ -69,9 +68,9 @@
 ## 📄 Get In Touch
 
 - 📎 **Resume:** [View My CV](https://drive.google.com/file/d/1R80SVHl5AB8g8zJxhlGmVHFC0nCAeFJu/view)
-- 💬 Ask me about: **React, Next.js, and CSS architectures.**
-- ⚡ Fun fact: I believe that **"User Experience is not just how it looks, but how it works and performs."**
+- 💬 Ask me about: **React, Next.js, and Modern Web UI.**
+- ⚡ Fun fact: I don't just build interfaces — I build reliable user experiences.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel,postman" />
 </p>
