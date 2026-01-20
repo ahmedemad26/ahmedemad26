@@ -24,21 +24,18 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** Student at Faculty of Computers & Information.
-- 💻 **Expertise:** Building high-performance web applications using **Next.js (App Router)**.
-- 🛒 **Specialization:** Developing scalable **E-commerce** solutions and dynamic dashboards.
-- 🚀 **Performance:** Focused on **SEO optimization**, Core Web Vitals, and clean architecture.
-- 🌱 **Learning:** Currently diving deeper into **TypeScript** and modern UI patterns.
+- 💻 **Expertise:** Specializing in **Next.js (App Router)** and building scalable User Interfaces.
+- 🛒 **Focus:** Passionate about creating seamless **E-commerce** experiences.
+- 🚀 **Performance:** Committed to writing clean, maintainable code with high SEO standards.
 
 ---
 
 ## 🧠 Technical Arsenal
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | **Next.js (14/15)**, React.js, TypeScript, JavaScript (ES6+) |
-| **Styling** | **Tailwind CSS**, Shadcn/UI, Framer Motion, Responsive Design |
-| **State & Data** | **TanStack Query (React Query)**, Redux Toolkit, Zod, Context API |
-| **Tools & Backend** | Git/GitHub, Firebase, Supabase, Vercel, Figma to Code |
+- **Frontend:** `Next.js 14/15` • `React.js` • `TypeScript` • `JavaScript (ES6+)`
+- **Styling:** `Tailwind CSS` • `Shadcn/UI` • `Responsive Design`
+- **State Management:** `TanStack Query (React Query)` • `Redux Toolkit` • `Zod`
+- **Tools:** `Git/GitHub` • `Vercel` • `Figma` • `Postman`
 
 ---
 
@@ -46,31 +43,29 @@
 
 ### 🛒 [Exclusive Store](https://exlusive-three.vercel.app/)
 > **Next.js 14 E-commerce Platform**
-- Developed a full-featured store with **Server-side Rendering (SSR)**.
-- Integrated **React Query** for efficient data fetching and caching.
-- Optimized for mobile-first users with **Tailwind CSS**.
+- High-performance store with **Server-side Rendering (SSR)**.
+- Robust state management using **React Query** and **Zod** for validation.
 
 ### 💼 [Modern Portfolio](https://ahmedemad26.github.io/portfolio/)
 > **React.js Personal Showcase**
-- Clean, minimalist design showcasing projects and technical skills.
-- High performance and fully responsive across all devices.
+- Clean and interactive UI built with a mobile-first approach.
 
 ---
 
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad26&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=c%2B%2B,c,java,python,csharp&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad26&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=c%2B%2B,c,java,python&langs_count=6" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide_rank=true" height="160" />
 </p>
 
 ---
 
-## 📄 Get In Touch
+## 📄 Contact
 
-- 📎 **Resume:** [View My Professional CV](https://drive.google.com/file/d/1R80SVHl5AB8g8zJxhlGmVHFC0nCAeFJu/view)
-- 💬 **Let's Talk:** I'm open to **Full-time roles** and **Freelance projects**.
+- 💬 **Let's Connect:** Open to **Full-time** roles and **Freelance** collaborations.
+- 📎 **Resume:** [View My CV](https://drive.google.com/file/d/1R80SVHl5AB8g8zJxhlGmVHFC0nCAeFJu/view)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,postman,figma" />
 </p>
