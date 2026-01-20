@@ -46,7 +46,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad26&show_icons=true&theme=default&hide_border=true&hide_languages=c%2B%2B" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad26&layout=compact&theme=default&hide_border=true&hide=c%2B%2B&langs_count=6" height="160" />
 </p>
 
