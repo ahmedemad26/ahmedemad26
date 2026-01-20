@@ -59,9 +59,8 @@
 *Personal showcase of projects and technical expertise.*
 - **Tech Stack:** React, Tailwind CSS.
 
----
 
-## 📊 GitHub Stats
+---
 
 ---
 
