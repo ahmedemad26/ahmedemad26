@@ -41,7 +41,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Exclusive Store](https://exlusive-three.vercel.app/)
+### 🛒 [Exclusive Store](https://e-commerce-exlusive.vercel.app/)
 > **Next.js 14 E-commerce Platform**
 - High-performance store with **Server-side Rendering (SSR)**.
 - Robust state management using **React Query** and **Zod** for validation.
