@@ -73,7 +73,7 @@
           </td>
         </tr>
         <tr>
-          <td><a href="https://ahmedemad26.github.io/portfolio/"><b>💼 Modern Portfolio</b></a></td>
+          <td><a href="https://ahmedemad26.github.io/portfolio/"><b>💼Portfolio</b></a></td>
           <td>Advanced CSS animations, Mobile-first responsive architecture, and modern design patterns.</td>
           <td align="center">
             <a href="https://ahmedemad26.github.io/portfolio/">
