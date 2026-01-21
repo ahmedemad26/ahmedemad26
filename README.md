@@ -60,9 +60,9 @@
       </thead>
       <tbody>
         <tr>
-          <td><a href="https://e-commerce-exlusive.vercel.app/"><b>🛒 Exclusive Store</b></a></td>
-          <td>Next.js 14, SSR, & Optimized Data Fetching.</td>
-          <td align="center"><img src="https://img.shields.io/github/stars/ahmedemad26/E-commerce-Nextjs-14?style=flat-square&color=22D3EE" /></td>
+          <td><a href="https://github.com/ahmedemad26/e-commerce-exlusive"><b>🛒 Exclusive Store</b></a></td>
+          <td><b>Next.js 14 (App Router)</b>, SSR, and Custom Hooks for optimized data fetching and state logic.</td>
+          <td align="center"><img src="https://img.shields.io/github/stars/ahmedemad26/e-commerce-exlusive?style=flat-square&color=22D3EE" /></td>
         </tr>
         <tr>
           <td><a href="https://ahmedemad26.github.io/portfolio/"><b>💼 Modern Portfolio</b></a></td>
