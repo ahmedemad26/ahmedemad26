@@ -21,28 +21,28 @@
 
   <b>Core Development</b>
   <p>
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" />
-    <img src="https://img.shields.io/badge/-React-22D3EE?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </p>
 
   <b>State & Styling</b>
   <p>
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
 
   <b>Tools & Dev Ops</b>
   <p>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm" />
-    <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman" />
-    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel" />
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
 
   ---
@@ -92,13 +92,13 @@
 
   <p>
     <a href="https://github.com/ahmedemad26" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/ahmedemad50/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ahmeedemadmohamed@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
