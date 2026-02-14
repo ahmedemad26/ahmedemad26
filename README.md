@@ -31,14 +31,12 @@
   <p>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
 
   <b>Tools & Dev Ops</b>
   <p>
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -61,7 +59,7 @@
       <tbody>
         <tr>
           <td><a href="https://github.com/ahmedemad26/e-commerce-exlusive"><b>🛒 Exclusive Store</b></a></td>
-          <td><b>Next.js 14 (App Router)</b>, SSR, Custom Hooks, and optimized data fetching with state management.</td>
+          <td><b>Next.js 14</b>, SSR, Custom Hooks, and optimized state management with Redux Toolkit.</td>
           <td align="center">
             <a href="https://e-commerce-exlusive.vercel.app/">
               <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -73,11 +71,11 @@
           </td>
         </tr>
         <tr>
-          <td><a href="https://ahmedemad26.github.io/portfolio/"><b>💼Portfolio</b></a></td>
-          <td>Advanced CSS animations, Mobile-first responsive architecture, and modern design patterns.</td>
+          <td><a href="https://ahmedemad-portfolio.vercel.app/"><b>💼 Modern Portfolio</b></a></td>
+          <td><b>Next.js 16</b>, Framer Motion (Spotlight & Magnetic effects), and high-performance animations.</td>
           <td align="center">
-            <a href="https://ahmedemad26.github.io/portfolio/">
-              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+            <a href="https://ahmedemad-portfolio.vercel.app/">
+              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
             </a>
             <br/>
             <a href="https://github.com/ahmedemad26/portfolio">
@@ -110,7 +108,7 @@
     <a href="https://github.com/ahmedemad26" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/ahmedemad50/" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmeedemad/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ahmeedemadmohamed@gmail.com" target="_blank">
