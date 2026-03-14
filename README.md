@@ -1,7 +1,6 @@
 <div align="start">
-
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     Hey! I'm Ahmed Emad
   </h1>
 
@@ -45,48 +44,62 @@
 
   ---
 
-### 🎁 Featured Projects
+  ### 🎁 Featured Projects
 
-<div align="center">
-  <table width="100%">
-    <thead align="center">
-      <tr style="background-color: #0f172a;">
-        <td><b>Project</b></td>
-        <td><b>Technical Highlight</b></td>
-        <td><b>Links</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github.com/ahmedemad26/Rose-App">
-            <b>🌹 Rose App</b>
-          </a>
-        </td>
-        <td>
-          <b>
-            A bilingual (EN/AR) flower e-commerce platform with RTL support,
-            dark mode, secure authentication, and a modern shopping experience.
-          </b>
-        </td>
-        <td align="center">
-          <a href="https://rose-app-six.vercel.app/">
-            <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-          <br/>
-          <a href="https://github.com/ahmedemad26/Rose-App">
-            <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+  <div align="center">
+    <table width="100%">
+      <thead align="center">
+        <tr style="background-color: #0f172a;">
+          <td><b>Project</b></td>
+          <td><b>Technical Highlight</b></td>
+          <td><b>Links</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a href="https://github.com/ahmedemad26/Rose-App"><b>🌹 Rose App</b></a>
+          </td>
+          <td>
+            <b>
+              A modern flower e-commerce platform built with Next.js, featuring bilingual support (EN/AR), RTL layout, dark mode, secure authentication, and a seamless shopping experience.
+            </b>
+          </td>
+          <td align="center">
+            <a href="https://rose-app-six.vercel.app/">
+              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+            <br/>
+            <a href="https://github.com/ahmedemad26/Rose-App">
+              <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </td>
+        </tr>
 
+        <tr>
+          <td>
+            <a href="https://ahmedemad-portfolio.vercel.app/"><b>💼 Modern Portfolio</b></a>
+          </td>
+          <td>
+            <b>Next.js 16, Framer Motion (Spotlight & Magnetic effects), and high-performance animations.</b>
+          </td>
+          <td align="center">
+            <a href="https://ahmedemad-portfolio.vercel.app/">
+              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+            <br/>
+            <a href="https://github.com/ahmedemad26/portfolio">
+              <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
   ---
 
-  ### 📊 GitHub Contributions 
+  ### 📊 GitHub Contributions
 
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedemad26&theme=react-dark&area=true&hide_border=true&color=22D3EE" width="100%" />
@@ -116,5 +129,4 @@
   <p>
     💌 <b>Feel free to reach out for collaboration or freelance projects!</b>
   </p>
-
 </div>
