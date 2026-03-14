@@ -45,47 +45,44 @@
 
   ---
 
-  ### 🎁 Featured Projects
+### 🎁 Featured Projects
 
-  <div align='center'>
-    <table width="100%">
-      <thead align="center">
-        <tr style="background-color: #0f172a;">
-          <td><b>Project</b></td>
-          <td><b>Technical Highlight</b></td>
-          <td><b>Links</b></td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="https://github.com/ahmedemad26/Rose-App"><b>🛒 Exclusive Store</b></a></td>
-          <td><b>A bilingual (EN/AR) flower e‑commerce platform with RTL support, dark mode, secure authentication and a modern shopping experience.</td>
-          <td align="center">
-            <a href="https://rose-app-six.vercel.app/">
-              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
-            </a>
-            <br/>
-            <a href="https://github.com/ahmedemad26/e-commerce-exlusive">
-              <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td><a href="https://ahmedemad-portfolio.vercel.app/"><b>💼 Modern Portfolio</b></a></td>
-          <td><b>Next.js 16</b>, Framer Motion (Spotlight & Magnetic effects), and high-performance animations.</td>
-          <td align="center">
-            <a href="https://ahmedemad-portfolio.vercel.app/">
-              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
-            </a>
-            <br/>
-            <a href="https://github.com/ahmedemad26/portfolio">
-              <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+<div align="center">
+  <table width="100%">
+    <thead align="center">
+      <tr style="background-color: #0f172a;">
+        <td><b>Project</b></td>
+        <td><b>Technical Highlight</b></td>
+        <td><b>Links</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/ahmedemad26/Rose-App">
+            <b>🌹 Rose App</b>
+          </a>
+        </td>
+        <td>
+          <b>
+            A bilingual (EN/AR) flower e-commerce platform with RTL support,
+            dark mode, secure authentication, and a modern shopping experience.
+          </b>
+        </td>
+        <td align="center">
+          <a href="https://rose-app-six.vercel.app/">
+            <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+          <br/>
+          <a href="https://github.com/ahmedemad26/Rose-App">
+            <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
   ---
 
