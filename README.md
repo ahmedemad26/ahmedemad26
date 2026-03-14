@@ -58,10 +58,10 @@
       </thead>
       <tbody>
         <tr>
-          <td><a href="https://github.com/ahmedemad26/e-commerce-exlusive"><b>🛒 Exclusive Store</b></a></td>
-          <td><b>Next.js 14</b>, SSR, Custom Hooks, and optimized state management with Redux Toolkit.</td>
+          <td><a href="https://github.com/ahmedemad26/Rose-App"><b>🛒 Exclusive Store</b></a></td>
+          <td><b>A bilingual (EN/AR) flower e‑commerce platform with RTL support, dark mode, secure authentication and a modern shopping experience.</td>
           <td align="center">
-            <a href="https://e-commerce-exlusive.vercel.app/">
+            <a href="https://rose-app-six.vercel.app/">
               <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
             </a>
             <br/>
