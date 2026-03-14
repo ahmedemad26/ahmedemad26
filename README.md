@@ -14,9 +14,9 @@
     I specialize in crafting seamless user interfaces using <b>Next.js (App Router)</b>, <b>Tailwind CSS</b>, and <b>TypeScript</b>. My true strength lies in <b>optimizing web performance</b> and engineering robust systems that stay smooth under heavy data load.
   </p>
 
-  ---
+  <hr/>
 
-  ### 🚀 Tech Stack & Tools
+  <h3>🚀 Tech Stack & Tools</h3>
 
   <b>Core Development</b>
   <p>
@@ -36,97 +36,42 @@
 
   <b>Tools & Dev Ops</b>
   <p>
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
 
-  ---
+  <hr/>
 
-  ### 🎁 Featured Projects
+  <h3>🎁 Featured Projects</h3>
 
   <div align="center">
-    <table width="100%">
-      <thead align="center">
-        <tr style="background-color: #0f172a;">
-          <td><b>Project</b></td>
-          <td><b>Technical Highlight</b></td>
-          <td><b>Links</b></td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>
-            <a href="https://github.com/ahmedemad26/Rose-App"><b>🌹 Rose App</b></a>
-          </td>
-          <td>
-            <b>
-              A modern flower e-commerce platform built with Next.js, featuring bilingual support (EN/AR), RTL layout, dark mode, secure authentication, and a seamless shopping experience.
-            </b>
-          </td>
-          <td align="center">
-            <a href="https://rose-app-six.vercel.app/">
-              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
-            </a>
-            <br/>
-            <a href="https://github.com/ahmedemad26/Rose-App">
-              <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-
-        <tr>
-          <td>
-            <a href="https://ahmedemad-portfolio.vercel.app/"><b>💼 Modern Portfolio</b></a>
-          </td>
-          <td>
-            <b>Next.js 16, Framer Motion (Spotlight & Magnetic effects), and high-performance animations.</b>
-          </td>
-          <td align="center">
-            <a href="https://ahmedemad-portfolio.vercel.app/">
-              <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
-            </a>
-            <br/>
-            <a href="https://github.com/ahmedemad26/portfolio">
-              <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  ---
-
-  ### 📊 GitHub Contributions
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedemad26&theme=react-dark&area=true&hide_border=true&color=22D3EE" width="100%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedemad26&theme=tokyonight" height="150" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedemad26&theme=tokyonight" height="150" />
-  </p>
-
-  ---
-
-  ### 📬 Where to find me
-
-  <p>
-    <a href="https://github.com/ahmedemad26" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/ahmeedemad/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ahmeedemadmohamed@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    💌 <b>Feel free to reach out for collaboration or freelance projects!</b>
-  </p>
-</div>
+    <table>
+      <tr>
+        <td><b>Project</b></td>
+        <td><b>Technical Highlight</b></td>
+        <td><b>Links</b></td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ahmedemad26/Rose-App"><b>🌹 Rose App</b></a>
+        </td>
+        <td>
+          <b>
+            A modern flower e-commerce platform built with Next.js, featuring bilingual support (EN/AR), RTL layout, dark mode, secure authentication, and a seamless shopping experience.
+          </b>
+        </td>
+        <td align="center">
+          <a href="https://rose-app-six.vercel.app/">
+            <img src="https://img.shields.io/badge/Live-Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+          <br/>
+          <a href="https://github.com/ahmedemad26/Rose-App">
+            <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://ahmedemad-portfolio.ve
